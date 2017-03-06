@@ -1,0 +1,11 @@
+{
+  "name": "fileuploader",
+  "version": "1.0.0",
+  "description": "a file uploader using nodejs, express and multer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Siddharth Gupta",
+  "license": "ISC"
+}
